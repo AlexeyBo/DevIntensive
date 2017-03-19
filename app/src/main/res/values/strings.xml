@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Бояркин Алексей</string>
     <string name="about">\nНет времени, чтобы себя обмануть,\nИ нет ничего, чтобы просто уснуть,\nИ нет никого, кто способен нажать на курок.\nМоя голова - перекресток железных дорог.\nЕсть целое небо, но нечем дышать.\nЗдесь тесно, но я не пытаюсь бежать.\nЯ прочно запутался в сетке ошибочных строк.\nМоя голова - перекресток железных дорог.</string>
+    <string name="user_rate">Рейтинг</string>
+    <string name="source_code_lines">Написано строк кода</string>
+    <string name="projects">Проектов</string>
+    <string name="mobile_phone_hint">Мобильный</string>
+    <string name="email_hint">Email</string>
+    <string name="vk_profile_source">Профиль VK</string>
+    <string name="repository_hint">Репозиторий</string>
+    <string name="about_hint">О себе</string>
 </resources>
