@@ -28,5 +28,11 @@
 
     <dimen name="size_big_72">72dp</dimen>
     <dimen name="line_size">1dp</dimen>
+    <dimen name="profile_image_size">256dp</dimen>
+    <dimen name="fab_right_space">8dp</dimen>
+
+    <!-- Workaround TextInputLayout rendering trouble: couldn't resolve resource @id/visible -->
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
 
 </resources>
